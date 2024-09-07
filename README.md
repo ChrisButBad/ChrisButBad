@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @ChrisButBad
-- 🌱 I’m currently learning python
-- 📫 How to reach me? you can reach me on twitter, discord, or reddit the username for all of them is ChrisButBad
+
